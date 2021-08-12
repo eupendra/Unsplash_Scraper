@@ -3,7 +3,7 @@
 ## Usage
 
 ```shell
-python3 main.py -s <search_term> 
+python3 main.py -s <search_term> -p <numer of pages>
 ```
 
 ## Dependencies
